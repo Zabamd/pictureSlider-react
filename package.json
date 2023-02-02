@@ -1,0 +1,33 @@
+{
+  "name": "@zabamd/react-picture-slider",
+  "version": "1.0.0",
+  "description": "Picture slider react component",
+  "main": "index.js",
+  "private":false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zabamd/react-picture-slider.git"
+  },
+  "keywords": [
+    "[react",
+    "component",
+    "slider",
+    "picture",
+    "carusel",
+    "image]"
+  ],
+  "author": "Amadeusz Zabierowski (https://github.com/Zabamd)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zabamd/react-picture-slider/issues"
+  },
+  "homepage": "https://github.com/Zabamd/react-picture-slider#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "peerDependencies": {
+    "react": "=>16",
+    "react-dom": "=>16"
+  }
+}
