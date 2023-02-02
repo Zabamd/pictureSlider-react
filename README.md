@@ -2,8 +2,8 @@
 
 Recreation of ![PictureSlider](https://github.com/Zabamd/pictureSlider) as a React Component
 
-![Pre-transition screenshot](./readme/pre.png)
-![Transition screenshot](./readme/past.png)
+![Pre-transition screenshot](https://github.com/Zabamd/pictureSlider/blob/master/assets/readMe/pre.png)
+![Transition screenshot](https://github.com/Zabamd/pictureSlider/blob/master/assets/readMe/pre.png)
 
 Component Set-up:
 
