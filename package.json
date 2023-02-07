@@ -2,7 +2,7 @@
   "name": "@zabamd/react-picture-slider",
   "version": "1.0.0",
   "description": "Picture slider react component",
-  "main": "index.js",
+  "main": "index.jsx",
   "private":false,
   "repository": {
     "type": "git",

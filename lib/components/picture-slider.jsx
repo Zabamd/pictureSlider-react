@@ -4,7 +4,7 @@ import React, { useEffect, useState } from "react";
 
 /**
  * React Picture Slider Component
- * @param  {Object} picturesData Array of three Objects that contain { {string} heading, {string} place, {string} comment, {string} link to the image}
+ * @param  {Object} picturesData => Array of three Objects that contain { {string} heading, {string} place, {string} comment, {string} image}
  */
 const PictureSlider = ({ picturesData }) => {
   const [cardOrder, setCardOrder] = useState([
